@@ -37,15 +37,6 @@
       }
     },
     {
-      "id": 7,
-      "name": "squirtle",
-      "hp": 34,
-      "sprites": {
-        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
-        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
-      }
-    },
-    {
       "id": 8,
       "name": "wartortle",
       "hp": 59,
@@ -1325,7 +1316,7 @@
     },
     {
       "name": "Bulbasaur",
-      "hp": 4710,
+      "hp": 4240,
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
@@ -1340,6 +1331,15 @@
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
       },
       "id": 152
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "5000",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+      },
+      "id": 153
     }
   ]
 }

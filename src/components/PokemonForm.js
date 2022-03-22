@@ -30,7 +30,6 @@ function PokemonForm({ addToPokedex }) {
         back: backUrl
       }
     }
-
     addToPokedex(newPokemonData);
 
     resetForm();
